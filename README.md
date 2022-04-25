@@ -1,5 +1,5 @@
 #Paypocket Data Visualization Project
-## Phase 1: Power BI Dashboards
+## Power BI Dashboards
 1. Claim Amounts by Payment Type, Geographic Continent, and Company Name
 <img width="578" alt="Screen Shot 2022-04-05 at 7 25 07 PM" src="https://user-images.githubusercontent.com/103080007/165184296-b3e317e3-ab75-4384-a86a-fafda434f482.png">
 
